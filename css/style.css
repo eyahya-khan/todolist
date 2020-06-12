@@ -1,0 +1,57 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.container-fluid {
+    background-color: #a5cbbf;
+}
+
+#header {
+    text-align: center;
+    color: #10392c;
+    margin-left: 10px;
+    margin-top: 20px;
+}
+
+#gender,
+#episode {
+    text-align: center;
+    margin-top: 20px;
+}
+
+#list1,
+#list2 {
+    margin-left: 20px;
+    margin-top: 10px;
+}
+
+input,
+button {
+    text-align: center;
+    border-style: none;
+    border-radius: 5px;
+}
+
+li {
+    margin-top: 10px;
+    border: 1px solid #10392c;
+}
+input{
+    color:#10392c;
+    background-color: #faebd7;
+    
+}
+
+button {
+    width: 70px;
+    color: #5d9f8a;
+    background-color: #000;
+    
+}
+
+#list2 img {
+    width: 300px;
+    height: 250px;
+}
